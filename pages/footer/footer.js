@@ -212,10 +212,10 @@ export default function Footer() {
       <div className="w-full p-4 bg-[#00304C]">
         <Link href="#">
           <span className="xl:mr-[40px]">
-            <img
+<picture>            <img
               src="https://androidkade.com/wp-content/uploads/2020/09/logo-1.png"
               className="xl:w-[130px] xl:mt-[7px] xl:mr-[15px]"
-            />
+            /></picture>
           </span>
         </Link>
         <p dir="rtl" className="xl:w-[1300px] xl:pt-[20px] text-white font-bold">

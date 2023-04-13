@@ -19,10 +19,12 @@ export default function Navbar() {
         {/* logo */}
         <Link href="#">
         <span className="">
-          <img
+<picture>
+<img
             src="https://androidkade.com/wp-content/uploads/2020/09/logo-1.png"
             className="sm:w-[130px] xl:mt-[7px] sm:mr-[15px]"
           />
+</picture>
         </span>
         </Link>
         {/* logo */}
