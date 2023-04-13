@@ -1,12 +1,8 @@
-watch this website online : (https://nobitex-95p6-ejgorq7tx-alideveloperjpn-a12.vercel.app/)
 
 PICS :
-![Screenshot - 4_9_2023 , 4_23_37 AM](https://user-images.githubusercontent.com/115926291/230769810-2f901d70-0b06-4710-b66f-ca79795cf1ee.png)
-![Screenshot - 4_9_2023 , 4_23_44 AM](https://user-images.githubusercontent.com/115926291/230769814-0872de8b-129c-4024-bb54-7326641e9d06.png)
-![Screenshot - 4_9_2023 , 4_23_47 AM](https://user-images.githubusercontent.com/115926291/230769816-1df04c94-5a73-4b88-af22-a9b4fe822c80.png)
-![Screenshot - 4_9_2023 , 4_23_52 AM](https://user-images.githubusercontent.com/115926291/230769821-480d20e1-b009-48b1-a45e-0057a810cf0d.png)
-![Screenshot - 4_9_2023 , 4_23_58 AM](https://user-images.githubusercontent.com/115926291/230769827-87d3193b-7465-41bf-b07e-32bba4b528a5.png)
-
+![Screenshot - 4_12_2023 , 7_52_56 AM](https://user-images.githubusercontent.com/115926291/231496847-a98c2f8f-db86-4faf-84ae-ae4401ba55b3.png)
+![Screenshot - 4_12_2023 , 7_53_00 AM](https://user-images.githubusercontent.com/115926291/231496866-bc22f28e-56b4-4644-b263-9914999e51d2.png)
+![Screenshot - 4_12_2023 , 7_53_06 AM](https://user-images.githubusercontent.com/115926291/231496902-5b1264dc-c96b-4595-b938-f6ccd3637788.png)
 
 
 
